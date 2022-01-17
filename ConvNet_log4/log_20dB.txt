@@ -1,0 +1,226 @@
+Currently using GPU: 0
+Creating dataset: 
+数据维度: (40000, 2, 4800)
+标签维度: (40000, 1)
+Creating model: ConvNet
+==> Epoch 1/150
+Train_Accuracy (%): 2.0938	Eval_Accuracy (%): 6.4250  
+Train_Loss (%): 6.8092	Eval_Loss (%): 3.9873  
+Validation loss decreased (inf --> 3.987345). 
+ Saving model ...
+==> Epoch 2/150
+Train_Accuracy (%): 15.2406	Eval_Accuracy (%): 40.0000  
+Train_Loss (%): 3.2733	Eval_Loss (%): 2.0647  
+Validation loss decreased (3.987345 --> 2.064680). 
+ Saving model ...
+==> Epoch 3/150
+Train_Accuracy (%): 39.0469	Eval_Accuracy (%): 60.6250  
+Train_Loss (%): 2.0137	Eval_Loss (%): 1.2438  
+Validation loss decreased (2.064680 --> 1.243848). 
+ Saving model ...
+==> Epoch 4/150
+Train_Accuracy (%): 55.2844	Eval_Accuracy (%): 64.2750  
+Train_Loss (%): 1.3765	Eval_Loss (%): 1.0527  
+Validation loss decreased (1.243848 --> 1.052651). 
+ Saving model ...
+==> Epoch 5/150
+Train_Accuracy (%): 64.8469	Eval_Accuracy (%): 74.5250  
+Train_Loss (%): 1.0490	Eval_Loss (%): 0.7424  
+Validation loss decreased (1.052651 --> 0.742367). 
+ Saving model ...
+==> Epoch 6/150
+Train_Accuracy (%): 70.5375	Eval_Accuracy (%): 81.5000  
+Train_Loss (%): 0.8530	Eval_Loss (%): 0.5291  
+Validation loss decreased (0.742367 --> 0.529144). 
+ Saving model ...
+==> Epoch 7/150
+Train_Accuracy (%): 75.1094	Eval_Accuracy (%): 82.4500  
+Train_Loss (%): 0.7223	Eval_Loss (%): 0.4931  
+Validation loss decreased (0.529144 --> 0.493119). 
+ Saving model ...
+==> Epoch 8/150
+Train_Accuracy (%): 78.2500	Eval_Accuracy (%): 85.1500  
+Train_Loss (%): 0.6138	Eval_Loss (%): 0.4036  
+Validation loss decreased (0.493119 --> 0.403585). 
+ Saving model ...
+==> Epoch 9/150
+Train_Accuracy (%): 81.1656	Eval_Accuracy (%): 86.5500  
+Train_Loss (%): 0.5292	Eval_Loss (%): 0.3846  
+Validation loss decreased (0.403585 --> 0.384593). 
+ Saving model ...
+==> Epoch 10/150
+Train_Accuracy (%): 83.0875	Eval_Accuracy (%): 86.8250  
+Train_Loss (%): 0.4683	Eval_Loss (%): 0.3858  
+EarlyStopping counter: 1 out of 10
+==> Epoch 11/150
+Train_Accuracy (%): 84.8281	Eval_Accuracy (%): 89.1500  
+Train_Loss (%): 0.4165	Eval_Loss (%): 0.3110  
+Validation loss decreased (0.384593 --> 0.311036). 
+ Saving model ...
+==> Epoch 12/150
+Train_Accuracy (%): 86.7687	Eval_Accuracy (%): 89.5500  
+Train_Loss (%): 0.3652	Eval_Loss (%): 0.3003  
+Validation loss decreased (0.311036 --> 0.300265). 
+ Saving model ...
+==> Epoch 13/150
+Train_Accuracy (%): 88.0187	Eval_Accuracy (%): 90.6250  
+Train_Loss (%): 0.3297	Eval_Loss (%): 0.2760  
+Validation loss decreased (0.300265 --> 0.276004). 
+ Saving model ...
+==> Epoch 14/150
+Train_Accuracy (%): 89.5719	Eval_Accuracy (%): 91.3750  
+Train_Loss (%): 0.2919	Eval_Loss (%): 0.2775  
+EarlyStopping counter: 1 out of 10
+==> Epoch 15/150
+Train_Accuracy (%): 90.9188	Eval_Accuracy (%): 91.5500  
+Train_Loss (%): 0.2557	Eval_Loss (%): 0.2650  
+Validation loss decreased (0.276004 --> 0.265008). 
+ Saving model ...
+==> Epoch 16/150
+Train_Accuracy (%): 91.7719	Eval_Accuracy (%): 91.3250  
+Train_Loss (%): 0.2302	Eval_Loss (%): 0.2580  
+Validation loss decreased (0.265008 --> 0.257965). 
+ Saving model ...
+==> Epoch 17/150
+Train_Accuracy (%): 92.7219	Eval_Accuracy (%): 92.8000  
+Train_Loss (%): 0.2045	Eval_Loss (%): 0.2201  
+Validation loss decreased (0.257965 --> 0.220050). 
+ Saving model ...
+==> Epoch 18/150
+Train_Accuracy (%): 93.6063	Eval_Accuracy (%): 93.3250  
+Train_Loss (%): 0.1778	Eval_Loss (%): 0.2145  
+Validation loss decreased (0.220050 --> 0.214484). 
+ Saving model ...
+==> Epoch 19/150
+Train_Accuracy (%): 94.3500	Eval_Accuracy (%): 93.2000  
+Train_Loss (%): 0.1596	Eval_Loss (%): 0.2181  
+EarlyStopping counter: 1 out of 10
+==> Epoch 20/150
+Train_Accuracy (%): 94.7531	Eval_Accuracy (%): 93.9000  
+Train_Loss (%): 0.1469	Eval_Loss (%): 0.1911  
+Validation loss decreased (0.214484 --> 0.191094). 
+ Saving model ...
+==> Epoch 21/150
+Train_Accuracy (%): 95.4625	Eval_Accuracy (%): 93.7750  
+Train_Loss (%): 0.1287	Eval_Loss (%): 0.2011  
+EarlyStopping counter: 1 out of 10
+==> Epoch 22/150
+Train_Accuracy (%): 95.8281	Eval_Accuracy (%): 94.5250  
+Train_Loss (%): 0.1198	Eval_Loss (%): 0.1869  
+Validation loss decreased (0.191094 --> 0.186919). 
+ Saving model ...
+==> Epoch 23/150
+Train_Accuracy (%): 96.2906	Eval_Accuracy (%): 94.6750  
+Train_Loss (%): 0.1057	Eval_Loss (%): 0.1839  
+Validation loss decreased (0.186919 --> 0.183923). 
+ Saving model ...
+==> Epoch 24/150
+Train_Accuracy (%): 96.5469	Eval_Accuracy (%): 95.0000  
+Train_Loss (%): 0.0988	Eval_Loss (%): 0.1763  
+Validation loss decreased (0.183923 --> 0.176331). 
+ Saving model ...
+==> Epoch 25/150
+Train_Accuracy (%): 96.8312	Eval_Accuracy (%): 95.0250  
+Train_Loss (%): 0.0922	Eval_Loss (%): 0.1770  
+EarlyStopping counter: 1 out of 10
+==> Epoch 26/150
+Train_Accuracy (%): 97.1750	Eval_Accuracy (%): 94.8500  
+Train_Loss (%): 0.0813	Eval_Loss (%): 0.1795  
+EarlyStopping counter: 2 out of 10
+==> Epoch 27/150
+Train_Accuracy (%): 97.3406	Eval_Accuracy (%): 94.9000  
+Train_Loss (%): 0.0777	Eval_Loss (%): 0.1769  
+EarlyStopping counter: 3 out of 10
+==> Epoch 28/150
+Train_Accuracy (%): 97.6250	Eval_Accuracy (%): 95.1500  
+Train_Loss (%): 0.0698	Eval_Loss (%): 0.1741  
+Validation loss decreased (0.176331 --> 0.174056). 
+ Saving model ...
+==> Epoch 29/150
+Train_Accuracy (%): 97.6063	Eval_Accuracy (%): 95.1250  
+Train_Loss (%): 0.0714	Eval_Loss (%): 0.1695  
+Validation loss decreased (0.174056 --> 0.169500). 
+ Saving model ...
+==> Epoch 30/150
+Train_Accuracy (%): 97.9313	Eval_Accuracy (%): 95.3750  
+Train_Loss (%): 0.0629	Eval_Loss (%): 0.1659  
+Validation loss decreased (0.169500 --> 0.165934). 
+ Saving model ...
+==> Epoch 31/150
+Train_Accuracy (%): 98.0062	Eval_Accuracy (%): 95.1250  
+Train_Loss (%): 0.0609	Eval_Loss (%): 0.1716  
+EarlyStopping counter: 1 out of 10
+==> Epoch 32/150
+Train_Accuracy (%): 97.9500	Eval_Accuracy (%): 95.2250  
+Train_Loss (%): 0.0602	Eval_Loss (%): 0.1675  
+EarlyStopping counter: 2 out of 10
+==> Epoch 33/150
+Train_Accuracy (%): 98.1781	Eval_Accuracy (%): 95.1000  
+Train_Loss (%): 0.0555	Eval_Loss (%): 0.1701  
+EarlyStopping counter: 3 out of 10
+==> Epoch 34/150
+Train_Accuracy (%): 98.3969	Eval_Accuracy (%): 95.6500  
+Train_Loss (%): 0.0514	Eval_Loss (%): 0.1635  
+Validation loss decreased (0.165934 --> 0.163528). 
+ Saving model ...
+==> Epoch 35/150
+Train_Accuracy (%): 98.4031	Eval_Accuracy (%): 95.4000  
+Train_Loss (%): 0.0479	Eval_Loss (%): 0.1618  
+Validation loss decreased (0.163528 --> 0.161785). 
+ Saving model ...
+==> Epoch 36/150
+Train_Accuracy (%): 98.3656	Eval_Accuracy (%): 95.5500  
+Train_Loss (%): 0.0482	Eval_Loss (%): 0.1611  
+Validation loss decreased (0.161785 --> 0.161091). 
+ Saving model ...
+==> Epoch 37/150
+Train_Accuracy (%): 98.3750	Eval_Accuracy (%): 95.6500  
+Train_Loss (%): 0.0487	Eval_Loss (%): 0.1590  
+Validation loss decreased (0.161091 --> 0.158958). 
+ Saving model ...
+==> Epoch 38/150
+Train_Accuracy (%): 98.5563	Eval_Accuracy (%): 95.3250  
+Train_Loss (%): 0.0447	Eval_Loss (%): 0.1676  
+EarlyStopping counter: 1 out of 10
+==> Epoch 39/150
+Train_Accuracy (%): 98.6031	Eval_Accuracy (%): 95.5750  
+Train_Loss (%): 0.0448	Eval_Loss (%): 0.1650  
+EarlyStopping counter: 2 out of 10
+==> Epoch 40/150
+Train_Accuracy (%): 98.5469	Eval_Accuracy (%): 95.3000  
+Train_Loss (%): 0.0428	Eval_Loss (%): 0.1649  
+EarlyStopping counter: 3 out of 10
+==> Epoch 41/150
+Train_Accuracy (%): 98.5844	Eval_Accuracy (%): 95.2000  
+Train_Loss (%): 0.0444	Eval_Loss (%): 0.1641  
+EarlyStopping counter: 4 out of 10
+==> Epoch 42/150
+Train_Accuracy (%): 98.7156	Eval_Accuracy (%): 95.4500  
+Train_Loss (%): 0.0405	Eval_Loss (%): 0.1655  
+EarlyStopping counter: 5 out of 10
+==> Epoch 43/150
+Train_Accuracy (%): 98.6781	Eval_Accuracy (%): 95.2000  
+Train_Loss (%): 0.0402	Eval_Loss (%): 0.1678  
+EarlyStopping counter: 6 out of 10
+==> Epoch 44/150
+Train_Accuracy (%): 98.6844	Eval_Accuracy (%): 95.2750  
+Train_Loss (%): 0.0412	Eval_Loss (%): 0.1658  
+EarlyStopping counter: 7 out of 10
+==> Epoch 45/150
+Train_Accuracy (%): 98.7938	Eval_Accuracy (%): 95.2750  
+Train_Loss (%): 0.0378	Eval_Loss (%): 0.1670  
+EarlyStopping counter: 8 out of 10
+==> Epoch 46/150
+Train_Accuracy (%): 98.8250	Eval_Accuracy (%): 95.5500  
+Train_Loss (%): 0.0386	Eval_Loss (%): 0.1658  
+EarlyStopping counter: 9 out of 10
+==> Epoch 47/150
+Train_Accuracy (%): 98.7656	Eval_Accuracy (%): 95.4250  
+Train_Loss (%): 0.0382	Eval_Loss (%): 0.1667  
+EarlyStopping counter: 10 out of 10
+Early stopping
+Finished. Total elapsed time (h:m:s): 0:24:49
+#######开始测试
+导入模型成功
+Confusion matrix
+Mean accuracy: 96.2393%

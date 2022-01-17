@@ -1,0 +1,17 @@
+Currently using GPU: 0
+Creating dataset: 
+数据维度: (40000, 2, 4800)
+标签维度: (40000, 1)
+data_set length: 40000
+Creating model: ConvNet
+==> Epoch 1/150
+Train_Accuracy (%): 1.7906	Eval_Accuracy (%): 4.9250  
+Train_Loss (%): 6.8136	Eval_Loss (%): 4.1493  
+Validation loss decreased (inf --> 4.149307). 
+ Saving model ...
+==> Epoch 2/150
+Train_Accuracy (%): 11.7125	Eval_Accuracy (%): 30.0000  
+Train_Loss (%): 3.5087	Eval_Loss (%): 2.4599  
+Validation loss decreased (4.149307 --> 2.459899). 
+ Saving model ...
+==> Epoch 3/150
